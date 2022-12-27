@@ -1,0 +1,23 @@
+body {
+  min-height: 2400px;
+}
+
+.jumbotron {
+  margin-top: 6em;
+  padding-top: 6rem;
+}
+
+#about {
+  min-height: 400px;
+  background-color: #212529;
+  color: white;
+}
+
+#projects {
+  min-height: 600px;
+  background-color: #212529;
+}
+
+section {
+  padding-top: 10rem;
+}
